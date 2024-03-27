@@ -1,0 +1,14 @@
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\bin\Debug\net8.0\Individuell Inlämning.exe
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\bin\Debug\net8.0\Individuell Inlämning.deps.json
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\bin\Debug\net8.0\Individuell Inlämning.runtimeconfig.json
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\bin\Debug\net8.0\Individuell Inlämning.dll
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\bin\Debug\net8.0\Individuell Inlämning.pdb
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\Individuell Inlämning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\Individuell Inlämning.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\Individuell Inlämning.AssemblyInfo.cs
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\Individuell Inlämning.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\Individuell Inlämning.dll
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\refint\Individuell Inlämning.dll
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\Individuell Inlämning.pdb
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\Individuell Inlämning.genruntimeconfig.cache
+C:\Users\emile\Desktop\C-sharp\VS Community\Individuell Inlämning\Individuell Inlämning\obj\Debug\net8.0\ref\Individuell Inlämning.dll

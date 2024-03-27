@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Individuell Inlämning/1.0.0": {
+        "runtime": {
+          "Individuell Inlämning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Individuell Inlämning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
